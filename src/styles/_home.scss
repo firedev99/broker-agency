@@ -1,0 +1,213 @@
+.home_wrapper {
+    position: relative;
+    &_bg {
+        height: 65vh;
+        width: 100%;
+        background-color: $bg-color;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        @include media("<=1200px") {
+            height: 100vh;
+            flex-direction: column;
+        }
+        
+    }
+    .home_left {
+        position: relative;
+        top: 4.2rem;
+        left: -15rem;
+        @include media("<=1444px") {
+            left: -12rem;
+        }
+        @include media("<=1300px") {
+            left: -10rem;
+        }
+        @include media("<=1200px") {
+            left: -13rem;
+            top: 15rem;
+        }
+        @include media("<=980px") {
+            left: 0rem;
+        }
+        @include media("<=490px") {
+            left: -1rem;
+        }
+        @include media("<=350px") {
+            left: 0;
+        }
+        h1 {
+            font-family: "Montserrat";
+            font-weight: 400;
+            font-size: 2.4rem;
+            letter-spacing: 2.5px;
+            @include media("<=1444px") {
+                font-size: 2.1rem;
+            }
+            @include media("<=1300px") {
+                letter-spacing: 1px;
+            }
+            @include media("<=980px") {
+                font-size: 1.8rem;
+            }
+            @include media("<=490px") {
+                font-size: 1.5rem;
+            }
+            @include media("<=350px") {
+                text-align: center;
+            }
+            span {
+                line-height: 60px;
+                @include media("<=980px") {
+                    line-height: 50px;
+                }
+                @include media("<=490px") {
+                    line-height: 35px;
+                }
+            }
+        }
+    }
+    .home_center {
+        width: 380px;
+        height: 570px;
+        position: absolute;
+        bottom: 0rem;
+        @include media("<=1200px") {
+            top: -3rem;
+        }
+    }
+    .home_right {
+        position: relative;
+        width: 350px;
+        left: 11rem;
+        top: 5rem;
+        @include media("<=1300px") {
+            left: 8rem;
+        }
+        @include media("<=1200px") {
+            left: 18rem;
+            top: 7.7rem;
+        }
+        @include media("<=980px") {
+            left: -1rem;
+            top: 14rem;
+        }
+        @include media("<=490px") {
+            top: 15rem;
+            left: 1rem;
+        }
+        @include media("<=350px") {
+            left: 0;
+        }
+        h3 {
+            font-family: "Montserrat";
+            line-height: 1.4;
+            font-size: 1.2rem;
+            font-weight: 100;
+            @include media("<=1200px") {
+                font-size: 1.1rem;
+            }
+            @include media("<=490px") {
+                font-size: 0.95rem;
+            }
+            @include media("<=350px") {
+                text-align: center;
+            }
+        }
+    }
+}
+
+//Home Content
+.home_content {
+    height: 35vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 3rem;
+    @include media("<=1300px") {
+        height: 100%;
+        padding: 2rem 0;
+    }
+    &_wrapper {
+        display: flex;
+        flex-direction: row;
+        @include media("<=1300px") {
+            flex-direction: column;
+        }
+        &_items {
+            width: 400px;
+            height: 100%;
+            margin: 0 1rem;
+            border-radius: 0.6rem;
+            padding: 3rem 1rem;
+            box-shadow: 0.2rem 0.1rem 0.3rem 0.1rem rgba(0, 0, 0, 0.205) ;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            @include media("<=1300px") {
+                margin: 1rem 0;
+            }
+            @include media("<=450px") {
+                width: 300px;
+            }
+            button {
+                outline: none;
+                border: none;
+                width: 15rem;
+                height: 2rem;
+                background: transparent;
+                position: relative;
+                overflow: hidden;
+                cursor: pointer;
+                transition: 0.4s ease-in;
+                &:hover {
+                    color: whitesmoke;
+                    border-radius: 0.6rem;
+                    background-color: rgba(55, 175, 255, 0.897);
+                }
+                a {
+                    text-decoration: none;
+                    color: $text-color;
+                    text-transform: uppercase;
+                    font-family: "Montserrat";
+                    font-size: 0.95rem;
+                }
+                .arrow {
+                    position: absolute;
+                    left: -2rem;
+                    top: 0.42rem;
+                    svg {
+                        width: 2rem;
+                        path {
+                            fill: whitesmoke;
+                        }
+                    }
+                }
+            }
+            &_heading {
+                display: flex;
+                flex-direction: row-reverse;
+                margin-left: 1rem;
+                margin-bottom: -0.5rem;
+                h3 {
+                    font-family: "Montserrat";
+                    font-size: 1rem;
+                    text-transform: uppercase;
+                    letter-spacing: 1px;
+                    color: rgba(55, 175, 255, 0.897);
+                    @include media("<=450px") {
+                        font-size: 0.9rem;
+                    }
+                }
+                svg {
+                    margin-top: -0.3rem;
+                    margin-right: 1rem;
+                    width: 50px;
+                    height: 50px;
+                }
+            }
+        }
+    }
+}
