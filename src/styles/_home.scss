@@ -8,6 +8,15 @@
         flex-direction: row;
         justify-content: center;
         align-items: center;
+        img {
+            filter: brightness(0.85);
+            @include media("<=400px"){
+                padding: 3rem;
+            }
+            @include media("<=325px"){
+                padding: 5rem;
+            }
+        }
         @include media("<=1200px") {
             height: 100vh;
             flex-direction: column;
@@ -37,6 +46,9 @@
         @include media("<=350px") {
             left: 0;
         }
+        @include media("<=325px"){
+           margin-bottom: -1.3rem;
+        }
         h1 {
             font-family: "Montserrat";
             font-weight: 400;
@@ -56,6 +68,7 @@
             }
             @include media("<=350px") {
                 text-align: center;
+                font-size: 1.4rem;
             }
             span {
                 line-height: 60px;
@@ -64,6 +77,9 @@
                 }
                 @include media("<=490px") {
                     line-height: 35px;
+                }
+                @include media("<=325px"){
+                    line-height: 25px;
                 }
             }
         }
@@ -130,6 +146,12 @@
         height: 100%;
         padding: 2rem 0;
     }
+    @include media("<=450px"){
+        margin-bottom: -5rem;
+    }
+    @include media("<=375px"){
+        margin-bottom: -8rem;
+    }
     &_wrapper {
         display: flex;
         flex-direction: row;
@@ -157,7 +179,9 @@
                 border: none;
                 width: 15rem;
                 height: 2rem;
-                background: transparent;
+                margin-top: 0.5rem;
+                background: rgba(55, 175, 255, 0.897);
+                border-radius: 0.5rem;
                 position: relative;
                 overflow: hidden;
                 cursor: pointer;
@@ -175,6 +199,7 @@
                     font-size: 0.95rem;
                 }
                 .arrow {
+                    display: none;
                     position: absolute;
                     left: -2rem;
                     top: 0.42rem;

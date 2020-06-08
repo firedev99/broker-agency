@@ -1,0 +1,58 @@
+.review_wrapper {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    padding: 12rem 5rem;
+    background-color: rgb(186, 223, 240);
+    @include media("<=1300px") {
+        flex-direction: column;
+        align-items: center;
+        padding: 2rem 0;
+    }
+    &_item {
+        position: relative;
+        width: 20rem;
+        height: auto;
+        margin: 0 2rem;
+        @include media("<=1300px") {
+            padding: 5rem;
+            margin: -2rem 0;
+        }
+        @include media("<=375px") {
+            margin-left: 2rem;
+        }
+        &:nth-child(1) {
+            margin-left: 9rem;
+            @include media("<=1300px") {
+                margin-left: 0;
+            }
+            @include media("<=375px") {
+                margin-left: 1.8rem;
+            }
+        }
+        h3 {
+            font-family: "Montserrat";
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+        p {
+            font-size: 0.9rem;
+            font-family: "Montserrat";
+        }
+        span {
+            position: absolute;
+            top: -1.5rem;
+            right: -0.5rem;
+            opacity: 0.2;
+            @include media ("<=1430px") {
+                right: -2rem;
+            }
+            @include media("<=1300px") {
+                top: 3.5rem;
+                right: -4rem;
+            }
+        }
+    }
+}

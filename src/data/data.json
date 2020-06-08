@@ -71,5 +71,370 @@
                 "src": "../assests/private-gallery6"
             }
         ] 
+    },
+    {
+        "title": "Noakhali Villa",
+        "slug": "noakhali-villa",
+        "slugNews": "noakhali-villa-news",
+        "category": "private",
+        "fetaured": "true",
+        "intro": "was designed for the city dwellers among us, aspiring to live according to their own set of rules morning coffe from your own terrace, located at the very heart of Chittagong.A possibility within a hand's reach-with cozy townhouses and low-rise flats in the unfolding Sprinkles.",
+        "location": "Noakhali 26/11,Bangladesh",
+        "volume": "67 apartments, 12 cottages",
+        "release": "2023 Q8",
+        "descriptionAbout": "project combines the benefits of a diverse urban cultural life and slow everyday pace. It is designed for those that are on the lookout for a peaceful shelter, yet are unwilling to compromise when it comes to a convenient living location. Intimate townhouses and flats, situated on the right-side of the river Neris guarantee a relaxing way of life, in a quickly growing, new city centre – Šnipiškės. A small, yet close-knit community of neighbours, Scandivanian architecture, surrounding green spaces and a rapidly unfolding, potential filled neighbourhood, comes together into a unique opportunity to invest in your harmonious future, now.",
+        "descriptionNeighbourhood": "Šnipiškės – a neighbourhood full of untapped potential, distinguished by its unhurried pace and rich cultural heritage. 19th century folk style wooden huts, modern, multi-storey buildings, fragments of ancient pavement and protected natural monuments—only a fraction of the charm that you are going to be experiencing when exploring the manifold streets of Šnipiškės.In order to contribute to the resurgent infrastructure of Šnipiškės, we are planning on investing in projects that would encourage active movement as well as sustainable environment development. To name a few: Šnipiškės park with a Japanese garden and a watchtower, a bicycle route “Šnipiškės-Baltasis tiltas” and the construction of an overhead power line.",
+        "class": "A+",
+        "apartmentSpace": "29-109 m2",
+        "townhouseSpace": "From 208 m3",
+        "benefits": [
+            {
+                "id": "01",
+                "heading": "Low-rise construction",
+                "info": "Energy-efficient, compact and distinctly peaceful spaces, designed for a comfortable way of life."
+            },
+            {
+                "id": "02",
+                "heading": "Secure, private territory",
+                "info": "Undisturbed, private territory, separated from the street by evergreen, decorative fences."
+            },
+            {
+                "id": "03",
+                "heading": "Progressive location",
+                "info": "Revitalized and booming infrastructure of Šnipiškės, will be just as suitable for an active lifestyle, as well as for a peaceful recreation at all times of the year."
+            },
+            {
+                "id": "04",
+                "heading": "Personal individual yards or spacious balconies and terraces",
+                "info": "Relaxation at its best: each low-rise construction flat comes with its own balcony or a terrace. Each townhouse – with exclusive, individual yards."
+            },
+            {
+                "id": "05",
+                "heading": "Underground parking, bike depository, storage rooms",
+                "info": "Convenient everyday storage solutions, created to seamlessly fit in with your lifestyle."
+            },
+            {
+                "id": "06",
+                "heading": "Slow living in the heart of Vilnius",
+                "info": "Small and intimate community of neighbours as well as intimate architectural decisions, will equip you with a feeling of the suburbs – all whilst staying right at the city centre."
+            }
+        ],
+        "newsTitle": "just got launched by AXIO group",
+        "newsDescription": "he real estate development company ‘AXIO Group’ has obtained the construction permit for the residential project ‘Namai-Kintai’ in Šnipiškės, Kintų g. 13, Vilnius. Construction works on the four-storey multi-apartment building and the twelve-cottage complex are scheduled to begin as early as this month, with investment in the project reaching EUR 11.1 million.123 apartments with spacious balconies or terraces and twelve cottage-type houses with individual courtyards will be constructed under the project ‘Namai-Kintai’. The area of apartments varies from 24 m2 to 72 m2, the area of housing planned in the cottages – from 108 m2. There are 138 parking spaces for cars and electric vehicles, storages, baby carriages and bicycle stores in the underground car park, and the closed yard with children’s playground and green areas for recreation of residents.‘While the real estate (RE) market is going through the period of uncertainty due to the COVID-19 virus and continuing quarantine we have no doubt about the success of the project ‘Namai-Kintai’. Looking at the sales statistics of new apartments last year, Šnipiškės was the district leader – 14% of all new apartments were sold there, and demand was even higher than the new RE supply of developers. The attractiveness of the district will not disappear and will only increase due to the investments of both the developers of the NT and Vilnius City transforming neglected territories,’ – says Rūta Grucienė, the Director of Residential Projects at ‘Galio Group.According to R. Grucienė, the project will be developed in parallel with the project of management of the neglected territory of Vilnius Municipality between Kintų and Giedraičių streets, where an attractive, modern public community space will be created, as well as in parallel with the reconstruction of Giedraičių, Kernavės and Daugėliškio streets important for traffic of Vilnius City residents.Flexible conditions for purchasing apartments Having obtained the construction permit ‘AXIO Group’ starts active sales of apartments and cottages. The company made it possible for customers to pay their initial contribution not immediately by signing a preliminary sale agreement, but in instalments.‘We have received numerous requests regarding the possibility of paying the initial contribution in instalments over a longer period of time. Residents experience the same sense of uncertainty as businesses, there is anxiety and some residents are currently avoiding spending larger amounts of money. That’s why we decided to provide the possibility to pay the initial contribution in monthly instalments until completion of the project’s construction works. Being a financially stable and reliable company we are trying to take into account the problems of our customers and we are and will remain flexible in the future,’ – says R. Grucienė.",
+        "imageBg": "../assests/private1-main",
+        "imageAbout": "../assests/love-birds",
+        "imageNeighbourhood": "../assests/private1-scenerio",
+        "images": [
+            {
+                "src": "../assests/private-gallery1"
+            },
+            {
+                "src": "../assests/private-gallery2"
+            },
+            {
+                "src": "../assests/private-gallery3"
+            },
+            {
+                "src": "../assests/private-gallery4"
+            },
+            {
+                "src": "../assests/private-gallery5"
+            },
+            {
+                "src": "../assests/private-gallery6"
+            }
+        ] 
+    },
+    {
+        "title": "Barisal Stay",
+        "slug": "barisal-stay",
+        "slugNews": "barisal-stay-news",
+        "category": "private",
+        "fetaured": "true",
+        "intro": "was designed for the city dwellers among us, aspiring to live according to their own set of rules morning coffe from your own terrace, located at the very heart of Chittagong.A possibility within a hand's reach-with cozy townhouses and low-rise flats in the unfolding Sprinkles.",
+        "location": "Barisal Sadar,Bangladesh",
+        "volume": "100 apartments, 29 cottages",
+        "release": "2026 Q10",
+        "descriptionAbout": "project combines the benefits of a diverse urban cultural life and slow everyday pace. It is designed for those that are on the lookout for a peaceful shelter, yet are unwilling to compromise when it comes to a convenient living location. Intimate townhouses and flats, situated on the right-side of the river Neris guarantee a relaxing way of life, in a quickly growing, new city centre – Šnipiškės. A small, yet close-knit community of neighbours, Scandivanian architecture, surrounding green spaces and a rapidly unfolding, potential filled neighbourhood, comes together into a unique opportunity to invest in your harmonious future, now.",
+        "descriptionNeighbourhood": "Šnipiškės – a neighbourhood full of untapped potential, distinguished by its unhurried pace and rich cultural heritage. 19th century folk style wooden huts, modern, multi-storey buildings, fragments of ancient pavement and protected natural monuments—only a fraction of the charm that you are going to be experiencing when exploring the manifold streets of Šnipiškės.In order to contribute to the resurgent infrastructure of Šnipiškės, we are planning on investing in projects that would encourage active movement as well as sustainable environment development. To name a few: Šnipiškės park with a Japanese garden and a watchtower, a bicycle route “Šnipiškės-Baltasis tiltas” and the construction of an overhead power line.",
+        "class": "A+",
+        "apartmentSpace": "77-101 m2",
+        "townhouseSpace": "From 1009 m2",
+        "benefits": [
+            {
+                "id": "01",
+                "heading": "Low-rise construction",
+                "info": "Energy-efficient, compact and distinctly peaceful spaces, designed for a comfortable way of life."
+            },
+            {
+                "id": "02",
+                "heading": "Secure, private territory",
+                "info": "Undisturbed, private territory, separated from the street by evergreen, decorative fences."
+            },
+            {
+                "id": "03",
+                "heading": "Progressive location",
+                "info": "Revitalized and booming infrastructure of Šnipiškės, will be just as suitable for an active lifestyle, as well as for a peaceful recreation at all times of the year."
+            },
+            {
+                "id": "04",
+                "heading": "Personal individual yards or spacious balconies and terraces",
+                "info": "Relaxation at its best: each low-rise construction flat comes with its own balcony or a terrace. Each townhouse – with exclusive, individual yards."
+            },
+            {
+                "id": "05",
+                "heading": "Underground parking, bike depository, storage rooms",
+                "info": "Convenient everyday storage solutions, created to seamlessly fit in with your lifestyle."
+            },
+            {
+                "id": "06",
+                "heading": "Slow living in the heart of Vilnius",
+                "info": "Small and intimate community of neighbours as well as intimate architectural decisions, will equip you with a feeling of the suburbs – all whilst staying right at the city centre."
+            }
+        ],
+        "newsTitle": "just got launched by AXIO group",
+        "newsDescription": "he real estate development company ‘AXIO Group’ has obtained the construction permit for the residential project ‘Namai-Kintai’ in Šnipiškės, Kintų g. 13, Vilnius. Construction works on the four-storey multi-apartment building and the twelve-cottage complex are scheduled to begin as early as this month, with investment in the project reaching EUR 11.1 million.123 apartments with spacious balconies or terraces and twelve cottage-type houses with individual courtyards will be constructed under the project ‘Namai-Kintai’. The area of apartments varies from 24 m2 to 72 m2, the area of housing planned in the cottages – from 108 m2. There are 138 parking spaces for cars and electric vehicles, storages, baby carriages and bicycle stores in the underground car park, and the closed yard with children’s playground and green areas for recreation of residents.‘While the real estate (RE) market is going through the period of uncertainty due to the COVID-19 virus and continuing quarantine we have no doubt about the success of the project ‘Namai-Kintai’. Looking at the sales statistics of new apartments last year, Šnipiškės was the district leader – 14% of all new apartments were sold there, and demand was even higher than the new RE supply of developers. The attractiveness of the district will not disappear and will only increase due to the investments of both the developers of the NT and Vilnius City transforming neglected territories,’ – says Rūta Grucienė, the Director of Residential Projects at ‘Galio Group.According to R. Grucienė, the project will be developed in parallel with the project of management of the neglected territory of Vilnius Municipality between Kintų and Giedraičių streets, where an attractive, modern public community space will be created, as well as in parallel with the reconstruction of Giedraičių, Kernavės and Daugėliškio streets important for traffic of Vilnius City residents.Flexible conditions for purchasing apartments Having obtained the construction permit ‘AXIO Group’ starts active sales of apartments and cottages. The company made it possible for customers to pay their initial contribution not immediately by signing a preliminary sale agreement, but in instalments.‘We have received numerous requests regarding the possibility of paying the initial contribution in instalments over a longer period of time. Residents experience the same sense of uncertainty as businesses, there is anxiety and some residents are currently avoiding spending larger amounts of money. That’s why we decided to provide the possibility to pay the initial contribution in monthly instalments until completion of the project’s construction works. Being a financially stable and reliable company we are trying to take into account the problems of our customers and we are and will remain flexible in the future,’ – says R. Grucienė.",
+        "imageBg": "../assests/private1-main",
+        "imageAbout": "../assests/love-birds",
+        "imageNeighbourhood": "../assests/private1-scenerio",
+        "images": [
+            {
+                "src": "../assests/private-gallery1"
+            },
+            {
+                "src": "../assests/private-gallery2"
+            },
+            {
+                "src": "../assests/private-gallery3"
+            },
+            {
+                "src": "../assests/private-gallery4"
+            },
+            {
+                "src": "../assests/private-gallery5"
+            },
+            {
+                "src": "../assests/private-gallery6"
+            }
+        ] 
+    },
+    {
+        "title": "Sundarban View",
+        "slug": "sundarban-view",
+        "slugNews": "sundarban-view-news",
+        "category": "private",
+        "fetaured": "false",
+        "intro": "was designed for the city dwellers among us, aspiring to live according to their own set of rules morning coffe from your own terrace, located at the very heart of Chittagong.A possibility within a hand's reach-with cozy townhouses and low-rise flats in the unfolding Sprinkles.",
+        "location": "Sundarban Forest,Bangladesh",
+        "volume": "88 cottages",
+        "release": "2032 Q1",
+        "descriptionAbout": "project combines the benefits of a diverse urban cultural life and slow everyday pace. It is designed for those that are on the lookout for a peaceful shelter, yet are unwilling to compromise when it comes to a convenient living location. Intimate townhouses and flats, situated on the right-side of the river Neris guarantee a relaxing way of life, in a quickly growing, new city centre – Šnipiškės. A small, yet close-knit community of neighbours, Scandivanian architecture, surrounding green spaces and a rapidly unfolding, potential filled neighbourhood, comes together into a unique opportunity to invest in your harmonious future, now.",
+        "descriptionNeighbourhood": "Šnipiškės – a neighbourhood full of untapped potential, distinguished by its unhurried pace and rich cultural heritage. 19th century folk style wooden huts, modern, multi-storey buildings, fragments of ancient pavement and protected natural monuments—only a fraction of the charm that you are going to be experiencing when exploring the manifold streets of Šnipiškės.In order to contribute to the resurgent infrastructure of Šnipiškės, we are planning on investing in projects that would encourage active movement as well as sustainable environment development. To name a few: Šnipiškės park with a Japanese garden and a watchtower, a bicycle route “Šnipiškės-Baltasis tiltas” and the construction of an overhead power line.",
+        "class": "A+",
+        "apartmentSpace": "10009 m2",
+        "townhouseSpace": "From 3409 m2",
+        "benefits": [
+            {
+                "id": "01",
+                "heading": "Low-rise construction",
+                "info": "Energy-efficient, compact and distinctly peaceful spaces, designed for a comfortable way of life."
+            },
+            {
+                "id": "02",
+                "heading": "Secure, private territory",
+                "info": "Undisturbed, private territory, separated from the street by evergreen, decorative fences."
+            },
+            {
+                "id": "03",
+                "heading": "Progressive location",
+                "info": "Revitalized and booming infrastructure of Šnipiškės, will be just as suitable for an active lifestyle, as well as for a peaceful recreation at all times of the year."
+            },
+            {
+                "id": "04",
+                "heading": "Personal individual yards or spacious balconies and terraces",
+                "info": "Relaxation at its best: each low-rise construction flat comes with its own balcony or a terrace. Each townhouse – with exclusive, individual yards."
+            },
+            {
+                "id": "05",
+                "heading": "Underground parking, bike depository, storage rooms",
+                "info": "Convenient everyday storage solutions, created to seamlessly fit in with your lifestyle."
+            },
+            {
+                "id": "06",
+                "heading": "Slow living in the heart of Vilnius",
+                "info": "Small and intimate community of neighbours as well as intimate architectural decisions, will equip you with a feeling of the suburbs – all whilst staying right at the city centre."
+            }
+        ],
+        "newsTitle": "just got launched by AXIO group",
+        "newsDescription": "he real estate development company ‘AXIO Group’ has obtained the construction permit for the residential project ‘Namai-Kintai’ in Šnipiškės, Kintų g. 13, Vilnius. Construction works on the four-storey multi-apartment building and the twelve-cottage complex are scheduled to begin as early as this month, with investment in the project reaching EUR 11.1 million.123 apartments with spacious balconies or terraces and twelve cottage-type houses with individual courtyards will be constructed under the project ‘Namai-Kintai’. The area of apartments varies from 24 m2 to 72 m2, the area of housing planned in the cottages – from 108 m2. There are 138 parking spaces for cars and electric vehicles, storages, baby carriages and bicycle stores in the underground car park, and the closed yard with children’s playground and green areas for recreation of residents.‘While the real estate (RE) market is going through the period of uncertainty due to the COVID-19 virus and continuing quarantine we have no doubt about the success of the project ‘Namai-Kintai’. Looking at the sales statistics of new apartments last year, Šnipiškės was the district leader – 14% of all new apartments were sold there, and demand was even higher than the new RE supply of developers. The attractiveness of the district will not disappear and will only increase due to the investments of both the developers of the NT and Vilnius City transforming neglected territories,’ – says Rūta Grucienė, the Director of Residential Projects at ‘Galio Group.According to R. Grucienė, the project will be developed in parallel with the project of management of the neglected territory of Vilnius Municipality between Kintų and Giedraičių streets, where an attractive, modern public community space will be created, as well as in parallel with the reconstruction of Giedraičių, Kernavės and Daugėliškio streets important for traffic of Vilnius City residents.Flexible conditions for purchasing apartments Having obtained the construction permit ‘AXIO Group’ starts active sales of apartments and cottages. The company made it possible for customers to pay their initial contribution not immediately by signing a preliminary sale agreement, but in instalments.‘We have received numerous requests regarding the possibility of paying the initial contribution in instalments over a longer period of time. Residents experience the same sense of uncertainty as businesses, there is anxiety and some residents are currently avoiding spending larger amounts of money. That’s why we decided to provide the possibility to pay the initial contribution in monthly instalments until completion of the project’s construction works. Being a financially stable and reliable company we are trying to take into account the problems of our customers and we are and will remain flexible in the future,’ – says R. Grucienė.",
+        "imageBg": "../assests/private1-main",
+        "imageAbout": "../assests/love-birds",
+        "imageNeighbourhood": "../assests/private1-scenerio",
+        "images": [
+            {
+                "src": "../assests/private-gallery1"
+            },
+            {
+                "src": "../assests/private-gallery2"
+            },
+            {
+                "src": "../assests/private-gallery3"
+            },
+            {
+                "src": "../assests/private-gallery4"
+            },
+            {
+                "src": "../assests/private-gallery5"
+            },
+            {
+                "src": "../assests/private-gallery6"
+            }
+        ] 
+    },
+    {
+        "title": "Cox's Valley",
+        "slug": "coxs-valley",
+        "slugNews": "coxs-valley-news",
+        "category": "private",
+        "fetaured": "false",
+        "intro": "was designed for the city dwellers among us, aspiring to live according to their own set of rules morning coffe from your own terrace, located at the very heart of Chittagong.A possibility within a hand's reach-with cozy townhouses and low-rise flats in the unfolding Sprinkles.",
+        "location": "Cox's Bazar,Bangladesh",
+        "volume": "The whole sea",
+        "release": "2028 Q2",
+        "descriptionAbout": "project combines the benefits of a diverse urban cultural life and slow everyday pace. It is designed for those that are on the lookout for a peaceful shelter, yet are unwilling to compromise when it comes to a convenient living location. Intimate townhouses and flats, situated on the right-side of the river Neris guarantee a relaxing way of life, in a quickly growing, new city centre – Šnipiškės. A small, yet close-knit community of neighbours, Scandivanian architecture, surrounding green spaces and a rapidly unfolding, potential filled neighbourhood, comes together into a unique opportunity to invest in your harmonious future, now.",
+        "descriptionNeighbourhood": "Šnipiškės – a neighbourhood full of untapped potential, distinguished by its unhurried pace and rich cultural heritage. 19th century folk style wooden huts, modern, multi-storey buildings, fragments of ancient pavement and protected natural monuments—only a fraction of the charm that you are going to be experiencing when exploring the manifold streets of Šnipiškės.In order to contribute to the resurgent infrastructure of Šnipiškės, we are planning on investing in projects that would encourage active movement as well as sustainable environment development. To name a few: Šnipiškės park with a Japanese garden and a watchtower, a bicycle route “Šnipiškės-Baltasis tiltas” and the construction of an overhead power line.",
+        "class": "A+",
+        "apartmentSpace": "10009 m2",
+        "townhouseSpace": "From 3409 m2",
+        "benefits": [
+            {
+                "id": "01",
+                "heading": "Low-rise construction",
+                "info": "Energy-efficient, compact and distinctly peaceful spaces, designed for a comfortable way of life."
+            },
+            {
+                "id": "02",
+                "heading": "Secure, private territory",
+                "info": "Undisturbed, private territory, separated from the street by evergreen, decorative fences."
+            },
+            {
+                "id": "03",
+                "heading": "Progressive location",
+                "info": "Revitalized and booming infrastructure of Šnipiškės, will be just as suitable for an active lifestyle, as well as for a peaceful recreation at all times of the year."
+            },
+            {
+                "id": "04",
+                "heading": "Personal individual yards or spacious balconies and terraces",
+                "info": "Relaxation at its best: each low-rise construction flat comes with its own balcony or a terrace. Each townhouse – with exclusive, individual yards."
+            },
+            {
+                "id": "05",
+                "heading": "Underground parking, bike depository, storage rooms",
+                "info": "Convenient everyday storage solutions, created to seamlessly fit in with your lifestyle."
+            },
+            {
+                "id": "06",
+                "heading": "Slow living in the heart of Vilnius",
+                "info": "Small and intimate community of neighbours as well as intimate architectural decisions, will equip you with a feeling of the suburbs – all whilst staying right at the city centre."
+            }
+        ],
+        "newsTitle": "just got launched by AXIO group",
+        "newsDescription": "he real estate development company ‘AXIO Group’ has obtained the construction permit for the residential project ‘Namai-Kintai’ in Šnipiškės, Kintų g. 13, Vilnius. Construction works on the four-storey multi-apartment building and the twelve-cottage complex are scheduled to begin as early as this month, with investment in the project reaching EUR 11.1 million.123 apartments with spacious balconies or terraces and twelve cottage-type houses with individual courtyards will be constructed under the project ‘Namai-Kintai’. The area of apartments varies from 24 m2 to 72 m2, the area of housing planned in the cottages – from 108 m2. There are 138 parking spaces for cars and electric vehicles, storages, baby carriages and bicycle stores in the underground car park, and the closed yard with children’s playground and green areas for recreation of residents.‘While the real estate (RE) market is going through the period of uncertainty due to the COVID-19 virus and continuing quarantine we have no doubt about the success of the project ‘Namai-Kintai’. Looking at the sales statistics of new apartments last year, Šnipiškės was the district leader – 14% of all new apartments were sold there, and demand was even higher than the new RE supply of developers. The attractiveness of the district will not disappear and will only increase due to the investments of both the developers of the NT and Vilnius City transforming neglected territories,’ – says Rūta Grucienė, the Director of Residential Projects at ‘Galio Group.According to R. Grucienė, the project will be developed in parallel with the project of management of the neglected territory of Vilnius Municipality between Kintų and Giedraičių streets, where an attractive, modern public community space will be created, as well as in parallel with the reconstruction of Giedraičių, Kernavės and Daugėliškio streets important for traffic of Vilnius City residents.Flexible conditions for purchasing apartments Having obtained the construction permit ‘AXIO Group’ starts active sales of apartments and cottages. The company made it possible for customers to pay their initial contribution not immediately by signing a preliminary sale agreement, but in instalments.‘We have received numerous requests regarding the possibility of paying the initial contribution in instalments over a longer period of time. Residents experience the same sense of uncertainty as businesses, there is anxiety and some residents are currently avoiding spending larger amounts of money. That’s why we decided to provide the possibility to pay the initial contribution in monthly instalments until completion of the project’s construction works. Being a financially stable and reliable company we are trying to take into account the problems of our customers and we are and will remain flexible in the future,’ – says R. Grucienė.",
+        "imageBg": "../assests/private1-main",
+        "imageAbout": "../assests/love-birds",
+        "imageNeighbourhood": "../assests/private1-scenerio",
+        "images": [
+            {
+                "src": "../assests/private-gallery1"
+            },
+            {
+                "src": "../assests/private-gallery2"
+            },
+            {
+                "src": "../assests/private-gallery3"
+            },
+            {
+                "src": "../assests/private-gallery4"
+            },
+            {
+                "src": "../assests/private-gallery5"
+            },
+            {
+                "src": "../assests/private-gallery6"
+            }
+        ] 
+    },
+    {
+        "title": "Bagura Sky",
+        "slug": "bagura-sky",
+        "slugNews": "bagura-sky-news",
+        "category": "private",
+        "fetaured": "false",
+        "intro": "was designed for the city dwellers among us, aspiring to live according to their own set of rules morning coffe from your own terrace, located at the very heart of Chittagong.A possibility within a hand's reach-with cozy townhouses and low-rise flats in the unfolding Sprinkles.",
+        "location": "Bagura,Bangladesh",
+        "volume": "88 flats, 28 roofs",
+        "release": "2022 Q1",
+        "descriptionAbout": "project combines the benefits of a diverse urban cultural life and slow everyday pace. It is designed for those that are on the lookout for a peaceful shelter, yet are unwilling to compromise when it comes to a convenient living location. Intimate townhouses and flats, situated on the right-side of the river Neris guarantee a relaxing way of life, in a quickly growing, new city centre – Šnipiškės. A small, yet close-knit community of neighbours, Scandivanian architecture, surrounding green spaces and a rapidly unfolding, potential filled neighbourhood, comes together into a unique opportunity to invest in your harmonious future, now.",
+        "descriptionNeighbourhood": "Šnipiškės – a neighbourhood full of untapped potential, distinguished by its unhurried pace and rich cultural heritage. 19th century folk style wooden huts, modern, multi-storey buildings, fragments of ancient pavement and protected natural monuments—only a fraction of the charm that you are going to be experiencing when exploring the manifold streets of Šnipiškės.In order to contribute to the resurgent infrastructure of Šnipiškės, we are planning on investing in projects that would encourage active movement as well as sustainable environment development. To name a few: Šnipiškės park with a Japanese garden and a watchtower, a bicycle route “Šnipiškės-Baltasis tiltas” and the construction of an overhead power line.",
+        "class": "A+",
+        "apartmentSpace": "10009 m2",
+        "townhouseSpace": "From 3409 m2",
+        "benefits": [
+            {
+                "id": "01",
+                "heading": "Low-rise construction",
+                "info": "Energy-efficient, compact and distinctly peaceful spaces, designed for a comfortable way of life."
+            },
+            {
+                "id": "02",
+                "heading": "Secure, private territory",
+                "info": "Undisturbed, private territory, separated from the street by evergreen, decorative fences."
+            },
+            {
+                "id": "03",
+                "heading": "Progressive location",
+                "info": "Revitalized and booming infrastructure of Šnipiškės, will be just as suitable for an active lifestyle, as well as for a peaceful recreation at all times of the year."
+            },
+            {
+                "id": "04",
+                "heading": "Personal individual yards or spacious balconies and terraces",
+                "info": "Relaxation at its best: each low-rise construction flat comes with its own balcony or a terrace. Each townhouse – with exclusive, individual yards."
+            },
+            {
+                "id": "05",
+                "heading": "Underground parking, bike depository, storage rooms",
+                "info": "Convenient everyday storage solutions, created to seamlessly fit in with your lifestyle."
+            },
+            {
+                "id": "06",
+                "heading": "Slow living in the heart of Vilnius",
+                "info": "Small and intimate community of neighbours as well as intimate architectural decisions, will equip you with a feeling of the suburbs – all whilst staying right at the city centre."
+            }
+        ],
+        "newsTitle": "just got launched by AXIO group",
+        "newsDescription": "he real estate development company ‘AXIO Group’ has obtained the construction permit for the residential project ‘Namai-Kintai’ in Šnipiškės, Kintų g. 13, Vilnius. Construction works on the four-storey multi-apartment building and the twelve-cottage complex are scheduled to begin as early as this month, with investment in the project reaching EUR 11.1 million.123 apartments with spacious balconies or terraces and twelve cottage-type houses with individual courtyards will be constructed under the project ‘Namai-Kintai’. The area of apartments varies from 24 m2 to 72 m2, the area of housing planned in the cottages – from 108 m2. There are 138 parking spaces for cars and electric vehicles, storages, baby carriages and bicycle stores in the underground car park, and the closed yard with children’s playground and green areas for recreation of residents.‘While the real estate (RE) market is going through the period of uncertainty due to the COVID-19 virus and continuing quarantine we have no doubt about the success of the project ‘Namai-Kintai’. Looking at the sales statistics of new apartments last year, Šnipiškės was the district leader – 14% of all new apartments were sold there, and demand was even higher than the new RE supply of developers. The attractiveness of the district will not disappear and will only increase due to the investments of both the developers of the NT and Vilnius City transforming neglected territories,’ – says Rūta Grucienė, the Director of Residential Projects at ‘Galio Group.According to R. Grucienė, the project will be developed in parallel with the project of management of the neglected territory of Vilnius Municipality between Kintų and Giedraičių streets, where an attractive, modern public community space will be created, as well as in parallel with the reconstruction of Giedraičių, Kernavės and Daugėliškio streets important for traffic of Vilnius City residents.Flexible conditions for purchasing apartments Having obtained the construction permit ‘AXIO Group’ starts active sales of apartments and cottages. The company made it possible for customers to pay their initial contribution not immediately by signing a preliminary sale agreement, but in instalments.‘We have received numerous requests regarding the possibility of paying the initial contribution in instalments over a longer period of time. Residents experience the same sense of uncertainty as businesses, there is anxiety and some residents are currently avoiding spending larger amounts of money. That’s why we decided to provide the possibility to pay the initial contribution in monthly instalments until completion of the project’s construction works. Being a financially stable and reliable company we are trying to take into account the problems of our customers and we are and will remain flexible in the future,’ – says R. Grucienė.",
+        "imageBg": "../assests/private1-main",
+        "imageAbout": "../assests/love-birds",
+        "imageNeighbourhood": "../assests/private1-scenerio",
+        "images": [
+            {
+                "src": "../assests/private-gallery1"
+            },
+            {
+                "src": "../assests/private-gallery2"
+            },
+            {
+                "src": "../assests/private-gallery3"
+            },
+            {
+                "src": "../assests/private-gallery4"
+            },
+            {
+                "src": "../assests/private-gallery5"
+            },
+            {
+                "src": "../assests/private-gallery6"
+            }
+        ] 
     }
 ]

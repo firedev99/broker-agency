@@ -1,5 +1,5 @@
     .header{
-        // height: 50px;
+        height: 11vh;
         width: 100%;
         position: fixed;
         z-index: 50;
@@ -9,8 +9,9 @@
         justify-content: space-between;
         transform: translateY(0);
         transition: transform 0.3s ease-in;
+        filter: brightness(5);
         @include media("<=800px") {
-            padding: 0 2rem;
+            padding: 1rem 2rem;
         }
         &_logo {
             a {

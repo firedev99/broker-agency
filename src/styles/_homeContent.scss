@@ -6,7 +6,7 @@
     justify-content: center;
     @include media("<=1300px") {
         overflow: hidden;
-        height: 160vh;
+        height: 180vh;
     }
     &_shell {
         display: flex;
@@ -22,12 +22,14 @@
             justify-content: center;
             align-items: center;
             @include media("<=1300px") {
-                margin-bottom: 3rem;
+                margin-bottom: 5rem;
+                margin-top: 8.5rem;
             }
             @include media("<=1080px") {
                margin-left: 4rem;
             }
             @include media("<=635px") {
+                margin-bottom: 12rem;
             }
             h1 {
                 font-size: 2.1rem;
@@ -116,7 +118,7 @@
                 margin-left: 11rem;
                 @include media("<=1300px") {
                     margin-left: 4.2rem;
-                    margin-top: -10rem;
+                    margin-top: -15rem;
                 }
                 @include media("<=492px") {
                     width: 350px;

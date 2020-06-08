@@ -1,12 +1,12 @@
 import React from 'react'
 import Layout from '../components/layout'
 //components
-import PrivatePage from '../components/privatePage'
+import PrivateIntro from '../components/privateIntro'
 
 const Private = () => {
     return (
         <Layout>
-            <PrivatePage />
+           <PrivateIntro />
         </Layout>
     )
 }
