@@ -123,6 +123,19 @@
     }
     .header.shadow {
         transition: 0.2s ease-in-out;
+        a {
+            color: black;
+        }
+        .header_list {
+            a {
+                color: black;
+            }
+            .button {
+                span {
+                    background-color: black;
+                }
+            }
+        }
     }
     .header.hidden {
         transform: translateY(-110%);

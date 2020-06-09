@@ -1,0 +1,35 @@
+.template_wrapper {
+    &_img {
+        height: 75vh;
+        width: 100%;
+        img {
+            height: 100%;
+            width: 100%;
+            object-fit: cover;
+            filter: brightness(0.8);
+        }
+    }
+    h1 {
+        top: 30%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        position: absolute;
+        color: whitesmoke;
+        letter-spacing: 2px;
+        font-family: "Montserrat";
+        @include media("<=1080px") {
+            left: 47%;
+        }
+        @include media("<=750px") {
+            font-size: 1.9rem;
+        }
+        @include media("<=620px") {
+            font-size: 1.5rem;
+        }
+        @include media("<=498px") {
+            font-size: 1.3rem;
+            letter-spacing: 0;
+            text-align: center;
+        }
+    }
+}
